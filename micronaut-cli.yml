@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: dtp.manawaroa.dps
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, jackson-databind, java, junit, kafka, logback, micronaut-build, picocli, picocli-java-application, picocli-junit, readme, shade, test-resources, yaml]
